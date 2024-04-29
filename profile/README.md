@@ -2,6 +2,7 @@
 
 We're trying to bring a community of developers together to do something big :)
 
-LauncherX is designed to support various blockchain platforms, such as Ethereum, Binance Smart Chain, Polygon, Solana, and more. LauncherX aims to be the ultimate project management platform for the blockchain and dapp ecosystem.
+We are working on developing a practical tool so that people can create small and medium-sized applications for various platforms like mobile, desktop, and web without having programming knowledge or at least minimal programming knowledge. 😊
 
-[Launcher.net](https://launcherx.net)
+
+[LauncherX.net](https://launcherx.net)
